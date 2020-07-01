@@ -35,7 +35,7 @@
 ## Projects
 
 
-### Data Science
+**Data Science**
 
 ### Zero-shot image style transfer [link](https://github.com/NicolasHu11/Zero-Shot-Image-Style-Transfer)
 - To change an image’s style using another arbitrary image with high efficiency and good visual quality
@@ -49,13 +49,13 @@ than perceptual loss and avatar-net (PyTorch, Pillow, TensorFlow)
 - Preprocessed raw data into model matrix and explored data using PCA, t-SNE and correlation heatmap
 - Implemented and compared five models(Regression, SVM, kNN, Naïve Bayes) with ROC curve, Precision Recall curve and feature importance to find the best model, which achieved 100% accuracy and F1 score (NumPy, Pandas, Scikit learn, Matplotlib)
 
-### Short/Long term mortality prediction, an evaluation of eight machine learning models [link](https://github.com/NicolasHu11/Short-Long-Term-Mortality-Prediction)
+### Short/Long term mortality prediction [link](https://github.com/NicolasHu11/Short-Long-Term-Mortality-Prediction)
 - To predict 30-day and 1-year mortality for ICU patients in hospital
 - Built a PostgreSQL database using MIMIC-III dataset and constructed design matrix, custom features, and labels after data cleaning, exploratory analysis, and literature review
 - Predicted mortality risk score using two convolutional neural network models for comparison and evaluated using ROC and Precision-Recall curve (SQL, Psycopg2, Pandas, Datetime, Scikit learn, TensorFlow, Seaborn)
-- Outperformed other risk scores such as SAPS II, OASIS, LODS etc. with AUC of 0.962 and AP of 0.883
-------------
-### Software Development 
+- Outperformed other risk scores such as SAPS II, OASIS, LODS etc. with AUC of 0.962 and AP of 0.883   
+
+**Software Development **
 
 ### Duke Master Program iOS app [link](https://github.com/NicolasHu11/Duke-Masters-iOS-app)
 - Implemented Shibboleth Authentication for Duke NetID with Face ID support and extracted data from multiple duke websites by calling APIs and processing texts (Swift 5)
