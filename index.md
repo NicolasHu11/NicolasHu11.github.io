@@ -55,7 +55,7 @@ than perceptual loss and avatar-net (PyTorch, Pillow, TensorFlow)
 - Predicted mortality risk score using two convolutional neural network models for comparison and evaluated using ROC and Precision-Recall curve (SQL, Psycopg2, Pandas, Datetime, Scikit learn, TensorFlow, Seaborn)
 - Outperformed other risk scores such as SAPS II, OASIS, LODS etc. with AUC of 0.962 and AP of 0.883   
 
-**Software Development **
+**Software Development**
 
 ### Duke Master Program iOS app [link](https://github.com/NicolasHu11/Duke-Masters-iOS-app)
 - Implemented Shibboleth Authentication for Duke NetID with Face ID support and extracted data from multiple duke websites by calling APIs and processing texts (Swift 5)
