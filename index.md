@@ -2,7 +2,6 @@
 # Yijia "Nicolas" Hu
 
 ## About  
-**Master Student, Duke University**
 - Goal-oriented and self-motivated programmer with a strong foundation in object-oriented programming and machine learning. 
 - Quick learner and collaborative team member.
 - Patient, persistent and productive. 
@@ -10,18 +9,23 @@
 
 
 **Skills**   
-- Coding Languages: python, sql, java, scala, 
-- Python Web Development: flask, django, sqlalchemy, Auth0
+- Coding Languages: python, sql, java, scala
+- Python Web Development: flask, django, SQLAlchemy, Auth0, Travis CI
 - Machine Learning: Tensorflow, pytorch, keras, Neural Networks, Regression, SVM, kNN, Naive Bayes, Decision Tree, Random Forest 
-- Big Data: spark, hadoop 
-- Database: sqlite, postgresql, mongodb, firebase
-- Tools: Jupyter Notebook, Anaconda,  
+- Big Data: Spark, hadoop 
+- Database: SQLite, PostgreSQL, MongoDB, firebase
+- Tools: Git, Linux, GCP/AWS, Docker, Jupyter Notebook, Anaconda
+
 <!-- Hive -->
 <!-- - data analysis: powerBI, Tableau, Advanced MS Excel (macros, index, conditional list, arrays, pivots, lookups)--> 
 <!-- - business: a/b test --> 
 <!-- Data analysis, data wranggling, data preprocessing, data modeling,
  data visualization --> 
 
+## Education 
+-  Master of Science, [Duke University](https://duke.edu/)
+
+-  Bachelor of Engineering, [Zhejiang University](https://www.zju.edu.cn/english/) 
 
 ## Experience 
 ### Data Scientist Intern @[DIHI](https://dihi.org/)
