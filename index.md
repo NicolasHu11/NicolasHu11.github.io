@@ -10,8 +10,8 @@
 
 **Skills**   
 - **Coding Languages**: Python, SQL, Java; JavaScript/HTML/CSS, MATLAB Scala, Swift, C 
-- **Web Development**: Flask, Django, SQLAlchemy, Auth0, Travis CI, Docker, Kubernetes, AWS 
-- **Data Science**: NumPy, pandas, scikit-learn, seaborn, ggplot2
+- **Web Development**: Flask, Django, SQLAlchemy, Auth0, Travis CI, Docker, Kubernetes, AWS EKS
+- **Data Science**: NumPy, pandas, scikit-learn, matplotlib, seaborn, ggplot2, plotly
 - **Machine Learning**: TensorFlow, PyTorch, Keras; Neural Networks, Regression, SVM, kNN, Naive Bayes, PCA, tSNE, Decision Tree, Random Forest 
 - **Big Data**: Spark/Scala, Hadoop
 - **Database**: SQLite, PostgreSQL, MongoDB, Firebase
