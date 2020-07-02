@@ -9,12 +9,13 @@
 
 
 **Skills**   
-- Coding Languages: python, sql, java, scala
-- Python Web Development: flask, django, SQLAlchemy, Auth0, Travis CI
-- Machine Learning: Tensorflow, pytorch, keras, Neural Networks, Regression, SVM, kNN, Naive Bayes, Decision Tree, Random Forest 
-- Big Data: Spark, hadoop 
-- Database: SQLite, PostgreSQL, MongoDB, firebase
-- Tools: Git, Linux, GCP/AWS, Docker, Jupyter Notebook, Anaconda
+- **Coding Languages**: Python, SQL, Java; JavaScript/HTML/CSS, MATLAB Scala, Swift, C 
+- **Web Development**: Flask, Django, SQLAlchemy, Auth0, Travis CI, Docker, Kubernetes, AWS 
+- **Data Science**: NumPy, pandas, scikit-learn, seaborn, ggplot2
+- **Machine Learning**: TensorFlow, PyTorch, Keras; Neural Networks, Regression, SVM, kNN, Naive Bayes, PCA, tSNE, Decision Tree, Random Forest 
+- **Big Data**: Spark/Scala, Hadoop
+- **Database**: SQLite, PostgreSQL, MongoDB, Firebase
+- **Tools**: Git, Linux, GCP/AWS, Jupyter Notebook, Anaconda
 
 <!-- Hive -->
 <!-- - data analysis: powerBI, Tableau, Advanced MS Excel (macros, index, conditional list, arrays, pivots, lookups)--> 
